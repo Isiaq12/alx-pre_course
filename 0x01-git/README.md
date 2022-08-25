@@ -1,8 +1,8 @@
 
 <<<<<<< HEAD
-I love coding
-bread is my favorite food
+my second readme
+branchname
 =======
-I love coding
-bread is my favorite food
+my second readme
+branchname
 >>>>>>> update_script
