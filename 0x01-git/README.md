@@ -1,4 +1,4 @@
-My second readme
+
 <<<<<<< HEAD
 I love coding
 bread is my favorite food
